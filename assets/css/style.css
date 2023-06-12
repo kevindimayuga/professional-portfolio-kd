@@ -122,9 +122,9 @@ p {
     flex: 2 1%;
 }
 
-.step-text [
+.step-text {
     flex: 25;
-]
+}
 
 .step-text p {
     color: var(--primary-color);
@@ -136,5 +136,42 @@ p {
 }
 
 /* My Work Section */
+
+.v1-border2 {
+    border-right: 3px solid var(--second-color);
+    height: 450px;
+    flex: 2 5%;
+}
+
 /* Contact Me Section */
+
+.v1-border3 {
+    border-right: 3px solid var(--second-color);
+    height: 100px;
+    flex: 2 5%;
+}
+
+.contact-info {
+    flex: 150;
+}
+
+.contact-info ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: left;
+    list-style: none;
+    margin-left: 15px;
+    width: 100%; 
+}
+
+.contact-info ul li a {
+    margin: 0 30px;
+    font-size: 18px;
+    color: var(--second-color);
+    text-decoration: none;
+    border-bottom: 3px solid;
+    padding-bottom: 2px;
+}
+
 /* Media Query */
