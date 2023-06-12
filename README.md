@@ -145,7 +145,8 @@ N/A
 I used the following resources to help guide me to complete the refactoring project:
 
 - [A simple guide to HTML head elements](https://htmlhead.dev/#:~:text=Valid%20elements%20include%20meta,and%20rendered%2C%20by%20web%20technologies.)
-- [CSS Tutorial](https://www.w3schools.com/css/)
+- [HTML a tag](https://www.w3schools.com/tags/tag_a.asp)
+- [HTML - Email Links](https://www.tutorialspoint.com/html/html_email_links.htm)
 - [A Beginner's Guide to HTML Accessibility](https://blog.hubspot.com/website/html-accessibility)
 - [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 - [HTML Comments: How to Use Them](https://blog.hubspot.com/website/comment-out-in-html#:~:text=To%20leave%20a%20comment%20in,with%20a%20team%20of%20developers.)
@@ -154,6 +155,7 @@ I used the following resources to help guide me to complete the refactoring proj
 - [HTML 'aside' Tag](https://www.w3schools.com/tags/tag_aside.asp)
 - [div: The Content Division Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
 - [span: The Content Span element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
+- [CSS Tutorial](https://www.w3schools.com/css/)
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
 
