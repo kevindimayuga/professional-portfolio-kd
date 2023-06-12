@@ -91,6 +91,7 @@ Additional Updates
 
 I used the following resources to help guide me to complete the portfolio project:
 
+- [26 best color combinations for your next design](https://webflow.com/blog/best-color-combinations)
 - [How to take a full page screenshot with a hidden Chrome shortcut](https://zapier.com/blog/full-page-screenshots-in-chrome/)
 - [A simple guide to HTML head elements](https://htmlhead.dev/#:~:text=Valid%20elements%20include%20meta,and%20rendered%2C%20by%20web%20technologies.)
 - [HTML 'a' tag](https://www.w3schools.com/tags/tag_a.asp)
@@ -107,6 +108,10 @@ I used the following resources to help guide me to complete the portfolio projec
 - [Placehold.jp](https://placehold.jp/en.html)
 - [CSS Tutorial](https://www.w3schools.com/css/)
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+- [:root pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/:root)
+- [Basic Concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+- [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp)
+- [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
 
 I used my hero image using the following source:
