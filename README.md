@@ -37,7 +37,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Accessing the Repo or Webpage:
 
 - GitHub Repo URL: https://github.com/kevindimayuga/module-two-challenge
-- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-one-challenge/
+- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-two-challenge/
 
 ## Webpage Screenshot
 
