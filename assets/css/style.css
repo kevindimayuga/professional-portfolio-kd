@@ -40,6 +40,11 @@ body {
     font-size: 20px;
 }
 
+nav a:hover,
+nav a:focus {
+    color: orange;
+}
+
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -247,6 +252,11 @@ figcaption {
     text-decoration: none;
 }
 
+.contact-details a:hover,
+.contact-details a:focus {
+    color: orange
+}
+
 /*Footer Section*/
 
 .footer {
@@ -261,3 +271,90 @@ figcaption {
 /* ids were used to help the UI scroll to corresponding section when navigation link was clicked*/
 
 /* Media Query */
+
+@media screen and (max-width: 980px) {
+    
+    header {
+      padding-bottom: 10px;
+      justify-content: center;
+      flex-direction: column;
+    }
+  
+    header h1 {
+      width: 100%;
+      text-align: center;
+    }
+  
+    header nav ul {
+      margin-top: 20px;
+      width: 100%;
+      justify-content: center;
+      flex-direction: column;
+      line-height: 1.5;
+    }
+  
+    header nav ul li a {
+      font-size: 16px;
+      font-weight: bold;
+      flex-direction: column;
+    }
+
+    .hero {
+      background-size: cover;
+    }
+
+    .professional-photo {
+      height: 100px;
+      width: 100px;
+      top: 200px;
+    }
+    .hero h3 {      
+      font-size: 10px;
+      margin-top: 350px;
+      }
+
+    .about-me-text p{
+        width: 85%;
+      }
+
+    .section-title {
+      width: 100%;
+      text-align: right;
+      font-weight: bold;
+    }
+
+    .about-me-border {      
+      height: 350px;     
+    }
+
+    .work-border {
+    height: 280px;     
+    }
+
+    .container{
+      width: 100%;
+    }
+
+    .contact-details ul {     
+      width: 100%;
+      justify-content: left;
+      flex-direction: column;      
+    }
+    
+    .contact-details ul li a {
+        font-size: 18px;
+        line-height: 2;  
+        font-weight: bold;
+    }
+
+    .contact-me-border {
+        height: 180px;
+    }
+      
+    figcaption {
+        margin-left: 5px;
+        margin-top: -45%;
+        font-size: 5px;
+    }
+
+  }
