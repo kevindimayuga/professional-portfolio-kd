@@ -36,7 +36,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Accessing the Repo or Webpage:
 
-- GitHub Repo URL: https://github.com/kevindimayuga/module-one-challenge.git
+- GitHub Repo URL: https://github.com/kevindimayuga/module-two-challenge
 - GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-one-challenge/
 
 ## Webpage Screenshot
@@ -67,67 +67,11 @@ HTML Updates
 ```
 <!--comments were made as needed in the HTML file-->
 
-<title> was updated to "Horiseon Social Solution Services, Inc." </title>
-
-the first <div> tag was updated to a <header> tag
-
-removed <span> element in <h1>
-
-next <div> tag was updated to a <nav> tag since it has nav links
-
-moved "meetingimg" to header section
-
-next <div> tag was updated to <main> tag for main content and changed "content" to "main content"
-
-added alt attributes to specify alternate text for all images on webpage
-
-updated "search-engine-optimization" class to id
-
-removed "online-reputation-management" class, kept id
-
-removed "social-media-marketing" class, kept id
-
-next <div> tag was updated to <aside> tag
-
-updated "benefit-lead", "benefit-brand" and "benefit-cost" classes to ids
-
-last <div> tag was updated to a <footer> tag
-
-made spaces between sections for clarity and cleanliness
-
-added indents where necessary for clarity and cleanliness
-
 ```
 
 CSS Updates
 ```
 /*comments were made as needed in the CSS file*/
-
-moved "a" and "p" styles to global section at top of css file
-
-removed ".header h1 .seo" rule
-
-updated ".header div", ".header div ul" and ".header div ul li" to ".header nav", ".header nav ul" and ".header nav ul li" 
-
-updated .hero to .meetingimg
-
-updated .content to .maincontent
-
-updated "online-reputation-management" and "social-media-marketing" class (.) to id (#)
-
-merged #search-engine-optimization, #online-reputation-management, #social-media-marketing into one
-
-merged #search-engine-optimization img, #online-reputation-management img, #social-media-marketing img into one
-
-merged #search-engine-optimization h2, #online-reputation-management h2, #social-media-marketing h2 into one
-
-updated "benefit-lead", "benefit-brand" and "benefit-cost" class (.) to id (#)
-
-merged #benefit-lead, #benefit-brand, #benefit-cost into one
-
-merged #benefit-lead h3, #benefit-brand h3, #benefit-cost h3 into one
-
-merged #benefit-lead img, #benefit-brand img, #benefit-cost img into one
 
 ```
 
@@ -138,14 +82,18 @@ Additional Updates
 
 ## Usage
 
-N/A
+- Use the navigation bar to navigate to various parts of the website (About Me, Work, Contact Me, Resume)
+- Read the "About Me" description to get an overview about me.
+- Hover over each image link in the "My Work" section to view various projects that I have completed throughout my course and professional work.
+- Use the "Contact Me" section to get contact information or other social media information (GitHub, Twitter, etc.)
 
 ## Credits
 
 I used the following resources to help guide me to complete the portfolio project:
 
+- [How to take a full page screenshot with a hidden Chrome shortcut](https://zapier.com/blog/full-page-screenshots-in-chrome/)
 - [A simple guide to HTML head elements](https://htmlhead.dev/#:~:text=Valid%20elements%20include%20meta,and%20rendered%2C%20by%20web%20technologies.)
-- [HTML a tag](https://www.w3schools.com/tags/tag_a.asp)
+- [HTML 'a' tag](https://www.w3schools.com/tags/tag_a.asp)
 - [HTML - Email Links](https://www.tutorialspoint.com/html/html_email_links.htm)
 - [A Beginner's Guide to HTML Accessibility](https://blog.hubspot.com/website/html-accessibility)
 - [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
@@ -156,6 +104,7 @@ I used the following resources to help guide me to complete the portfolio projec
 - [div: The Content Division Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
 - [span: The Content Span element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
 - [Hero Image](https://www.optimizely.com/optimization-glossary/hero-image/#:~:text=A%20hero%20image%20is%20a,Source%3A%20Balsamiq)
+- [Placehold.jp](https://placehold.jp/en.html)
 - [CSS Tutorial](https://www.w3schools.com/css/)
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
