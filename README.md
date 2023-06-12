@@ -161,7 +161,7 @@ I used the following resources to help guide me to complete the portfolio projec
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
 
 I used my hero image using the following source:
-- [Coding Background Image by Christopher Gower](https://unsplash.com/photos/m_HRfLhgABo)
+- [Coding Background Image by Alexandru Acea](https://unsplash.com/photos/XEB8y0nRRP4)
 
 ## License
 
