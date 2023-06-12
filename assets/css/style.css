@@ -1,8 +1,8 @@
 /*Global and Element Styles and Rules*/
 
 :root {
-    --primary-color: #fbeaeb;
-    --secondary-color: #2f3c7e;
+    --first-color: #fbeaeb;
+    --second-color: #2f3c7e;
 }
 
 * {
@@ -18,7 +18,7 @@ body, html {
 }
 
 a {
-    color: var(--primary-color);
+    color: var(--first-color);
     text-decoration: none;
 }
 
@@ -31,14 +31,14 @@ p {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: var(--secondary-color);
-    color: var(--primary-color);
+    background-color: var(--second-color);
+    color: var(--first-color);
 }
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
-    color: var(--primary-color);
+    color: var(--first-color);
 }
 
 .header nav {
@@ -52,7 +52,7 @@ p {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-    color: var(--primary-color);
+    color: var(--first-color);
 }
 
 /* Hero Image Style and Rules */
@@ -72,7 +72,16 @@ p {
 
 .hero h2 {
     font-size: 25px;
-    color: var(--primary-color);
+    color: var(--first-color);
     margin-top: 370px;
-    background-color: var(--secondary-color);
+    background-color: var(--second-color);
+}
+
+/*Professional Photo*/
+
+.professional-photo {
+    position: relative;
+    margin: 12px;
+    height: 300px;
+    border: 4px var(--second-color) solid;
 }
