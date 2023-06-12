@@ -142,7 +142,7 @@ N/A
 
 ## Credits
 
-I used the following resources to help guide me to complete the refactoring project:
+I used the following resources to help guide me to complete the portfolio project:
 
 - [A simple guide to HTML head elements](https://htmlhead.dev/#:~:text=Valid%20elements%20include%20meta,and%20rendered%2C%20by%20web%20technologies.)
 - [HTML a tag](https://www.w3schools.com/tags/tag_a.asp)
@@ -155,9 +155,13 @@ I used the following resources to help guide me to complete the refactoring proj
 - [HTML 'aside' Tag](https://www.w3schools.com/tags/tag_aside.asp)
 - [div: The Content Division Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
 - [span: The Content Span element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
+- [Hero Image](https://www.optimizely.com/optimization-glossary/hero-image/#:~:text=A%20hero%20image%20is%20a,Source%3A%20Balsamiq)
 - [CSS Tutorial](https://www.w3schools.com/css/)
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
+
+I used my hero image using the following source:
+- [Coding Background Image by Christopher Gower](https://unsplash.com/photos/m_HRfLhgABo)
 
 ## License
 
