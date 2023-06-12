@@ -54,15 +54,14 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The following steps were taken to complete the project:
 - Review the purpose of the project, the user story and acceptance criteria
-- Review the ins and outs of refactoring code
+- Review the basics to starting a web application
 - Review semantic HTML elements and structure
-- Review CSS
+- Review CSS and advanced CSS
 - Review code accessibility standards
-- Refactor HTML and CSS
 - Create Professional README file
 - Add website image to README file
 - Deploy website to GitHub Pages
-- Submit screenshot of webpage and URLs to webpage and GitHub Repo
+- Submit URLs to deployed webpage and GitHub Repo
 
 HTML Updates
 ```
@@ -145,6 +144,7 @@ N/A
 
 I used the following resources to help guide me to complete the refactoring project:
 
+- [A simple guide to HTML head elements](https://htmlhead.dev/#:~:text=Valid%20elements%20include%20meta,and%20rendered%2C%20by%20web%20technologies.)
 - [CSS Tutorial](https://www.w3schools.com/css/)
 - [A Beginner's Guide to HTML Accessibility](https://blog.hubspot.com/website/html-accessibility)
 - [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
