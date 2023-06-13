@@ -41,7 +41,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Webpage Screenshot
 
-![module one challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-one-challenge_.png)
+![module two challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-two-challenge_.png)
 
 ## Table of Contents
 
@@ -58,6 +58,9 @@ The following steps were taken to complete the project:
 - Review semantic HTML elements and structure
 - Review CSS and advanced CSS
 - Review code accessibility standards
+- Add projects/work to Portfolio
+- Add resume to Portfolio
+- Add About Me, My Work and Contact Me Sections to Portfolio
 - Create Professional README file
 - Add website image to README file
 - Deploy website to GitHub Pages
