@@ -69,18 +69,16 @@ The following steps were taken to complete the project:
 HTML Updates
 ```
 <!--comments were made as needed in the HTML file-->
-
 ```
 
 CSS Updates
 ```
 /*comments were made as needed in the CSS file*/
-
 ```
 
 Additional Updates
 ```
-
+N/A
 ```
 
 ## Usage
