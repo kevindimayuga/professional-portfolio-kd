@@ -41,7 +41,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Webpage Screenshot
 
-![module two challenge webpage screenshot](./assets/images/kevindimayuga.github.io_professional-portfolio-kd.png)
+![professional portfolio webpage screenshot](./assets/images/kevindimayuga.github.io_professional-portfolio-kd.png)
 
 ## Table of Contents
 
