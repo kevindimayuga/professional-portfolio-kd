@@ -1,6 +1,6 @@
 # Professional Portfolio
 
-M2 - This repo is an a Code Refactor project in which codebase is improved for long-term sustainability.
+M2 - This repo is a Professional Portfolio which will showcase all my web application and development work.
 
 ## Description
 
