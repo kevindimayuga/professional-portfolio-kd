@@ -1,6 +1,6 @@
 # Professional Portfolio
 
-This repo is for module two's challenge assignment.
+M2 - This repo is an a Code Refactor project in which codebase is improved for long-term sustainability.
 
 ## Description
 
